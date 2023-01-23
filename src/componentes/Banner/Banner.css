@@ -1,0 +1,17 @@
+.banner{
+   background-image: linear-gradient(to right,#001eff,#2db2ff);
+    text-align: end;
+
+}
+
+.banner img{
+    max-width: 30%;
+    align-items: flex-end;
+}
+
+.banner h1{
+    color: #fff;
+    text-align: center;
+  
+}
+
